@@ -1,0 +1,7 @@
+#Ignores entire folder for DoNotPutInGut
+
+DoNotPutInGit/
+
+#Ignores DoNotPutIngit.meta
+
+DoNotPutInGit.meta
